@@ -313,7 +313,6 @@ document.addEventListener("DOMContentLoaded", () => {
     // You can edit these titles anytime:
     const roles = [
       "Power BI Developer",
-      "Business Analyst",
       "Power Apps Developer",
       "Data Analyst"
     ];
@@ -369,3 +368,4 @@ document.addEventListener("DOMContentLoaded", () => {
     tick();
   }
 });
+
